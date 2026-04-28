@@ -1,2 +1,7 @@
-# demo-ravetta-alejandro
-Demo web para Ravetta Alejandro — diseñada por eterlab.
+# Ravetta Alejandro
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
